@@ -5,8 +5,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cer3s-k&hide=stars&show_icons=true&theme=cobalt)
 
 - 💬 菜狗在路上
-- 🔭 不那么二的二次元
-- 🌱 学习方向： AD域、AV/EDR Evasion
+- 🔭 浓度不够的二次元
+- 🌱 学习方向： AD域、AV/EDR Evasion、云原生
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cer3s-k&layout=compact&theme=tokyonight)
