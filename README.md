@@ -6,7 +6,7 @@
 
 - 💬 菜狗在路上
 - 🔭 浓度不够的二次元
-- 🌱 学习方向： AD域、AV/EDR Evasion、云原生
+- 🌱 学习方向： AD域、AV/EDR Evasion、~~云原生~~(慢慢学吧，学不过来了)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cer3s-k&layout=compact&theme=tokyonight)
