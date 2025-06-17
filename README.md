@@ -8,7 +8,7 @@
 - 🔭 浓度不够的二次元
 - 🌱 学习方向： AD域、AV/EDR Evasion、~~云原生~~(先缓缓，学不过来了)
 
-- 个人博客：https://cer3s-k.github.io/
+- 个人博客：[https://cer3s.com](https://cer3s.com)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cer3s-k&layout=compact&theme=tokyonight)
